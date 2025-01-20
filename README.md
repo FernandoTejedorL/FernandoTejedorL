@@ -9,9 +9,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 <br/>
 <h2>🥸 About me...</h2>
-<p>Hello! 👋 <br/>
+<p>Hello! 👋 <br/><br/>
 I’m a passionate developer who loves coding, even if it means sacrificing hours of sleep to create something amazing. 
-<br/>Beyond the world of programming, I enjoy composing music in my free time, and I’m a proud dog lover who cherishes every moment with my furry best friend.</p>
+<br/><br/>Beyond the world of programming, I enjoy composing music in my free time, and I’m a proud dog lover who cherishes every moment with my furry best friend.</p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://es.linkedin.com/in/fernando-tejedor-65483b6b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoTejedorL&show_icons=true&locale=en&layout=compact" alt="FernandoTejedorL" /></p>
