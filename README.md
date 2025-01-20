@@ -1,33 +1,11 @@
-Welcome to My Development Journey!
-
-Hi there! 👋 Welcome to my little corner of the development world. I’m just starting out, learning the ropes, and diving into the exciting universe of coding. Here’s a bit about my focus and tools:
-
-🌱 Learning and Growing
-
-I’m a newbie developer passionate about exploring the possibilities of web development. Every day is an opportunity to learn something new and build something cool!
-
-🛠️ My Current Tech Stack
-
-Programming Language: JavaScript
-
-Frontend Framework: React.js
-
-Backend Runtime: Node.js
-
-🚀 What I’m Working On
-
-I’m experimenting with:
-
-Creating dynamic and responsive web applications.
-
-Building APIs and learning how to connect them with frontend frameworks.
-
-Strengthening my JavaScript skills and diving deeper into React and Node.js.
-
-🤝 Let’s Connect
-
-Share tips, advice, or cool resources with me—I’m always open to learning from others!
-
-Got feedback on any of my projects? Let me know—it’s super valuable!
-
-Thanks for stopping by! I’m excited to grow, learn, and code with the amazing developer community. 🌟
+<h1>Welcome to My Development Journey!</h1>
+<p>I’m just starting out, learning the ropes, and diving into the exciting universe of coding.</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/fernando-tejedor-65483b6b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoTejedorL&show_icons=true&locale=en&layout=compact" alt="FernandoTejedorL" /></p>
